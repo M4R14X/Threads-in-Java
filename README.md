@@ -1,6 +1,7 @@
 # Threads-in-Java
 This small project demonstrates how Java threads work, how they are created, and how they can be synchronized to ensure safe and efficient execution in concurrent environments.
-![image](https://github.com/user-attachments/assets/27259bcb-b87e-457b-bddb-dcb9400d3f36)
+
+![image](https://github.com/user-attachments/assets/27259bcb-b87e-457b-bddb-dcb9400d3f36) 
 
 ## Thread Creation
 The **Producer** and **Consumer** classes both extend **Thread**.
